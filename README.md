@@ -5,7 +5,7 @@ I'm **Michal Konopka**, a Senior Full-Stack Engineer with 10 years of experience
 ## 🚀 What I do
 
 - **Frontend**: React, Vue, Astro, Next.js, Nuxt, TypeScript - from SSG content platforms to real-time streaming UIs
-- **AI Applications**: RAG pipelines, multi-provider LLM orchestration (Claude, Gemini, Mistral, GPT), streaming interfaces, agent tooling
+- **AI Applications**: RAG pipelines, multi-provider LLM orchestration (Claude, Gemini, GPT), streaming interfaces, agent tooling
 - **Backend**: Node.js (AdonisJS, Hono), REST APIs, PostgreSQL, Python (FastAPI)
 - **Architecture**: DDD, Clean Architecture, Microfrontends, Monorepos
 - **Testing**: Jest, Playwright, Vitest, Cypress - unit, integration & E2E
