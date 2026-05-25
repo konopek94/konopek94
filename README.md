@@ -11,12 +11,6 @@ I'm **Michal Konopka**, a Senior Full-Stack Engineer with 10 years of experience
 - **Testing**: Jest, Playwright, Vitest, Cypress - unit, integration & E2E
 - **Observability**: Datadog RUM, Core Web Vitals, Sentry
 
-## 📍 Current
-
-- **Location**: Remote (Spain)
-- **Building**: [rag-codebase-qa](https://github.com/konopek94/rag-codebase-qa) - a local-first RAG tool that answers questions about any codebase with cited source references
-- **Stack**: Vercel AI SDK, ChromaDB, FastAPI, Hono, React
-
 ## 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
