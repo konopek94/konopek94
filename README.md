@@ -1,6 +1,6 @@
 # Hola, hi! 👋
 
-I'm **Michal Konopka**, a Senior Full-Stack Engineer with 10 years of experience building web applications - and lately, AI-powered ones.
+I'm **Michal Konopka**, a Senior Frontend-leaning fullstack with 10 years of experience building web applications - and lately, AI-powered ones.
 
 ## 🚀 What I do
 
